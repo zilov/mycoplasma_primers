@@ -1,0 +1,16 @@
+#target	genomes_analyzed	missed_genomes	unique_sequnces	multifasta_file
+30S ribosomal protein S7	277	1	78	/home/dzilov/data_zilov/data/mycoplasma/clusters/multifasta/30S_ribosomal_protein_S7.fasta
+molecular chaperone DnaK	277	1	107	/home/dzilov/data_zilov/data/mycoplasma/clusters/multifasta/molecular_chaperone_DnaK.fasta
+F0F1 ATP synthase subunit alpha	277	2	103	/home/dzilov/data_zilov/data/mycoplasma/clusters/multifasta/F0F1_ATP_synthase_subunit_alpha.fasta
+50S ribosomal protein L6	277	1	96	/home/dzilov/data_zilov/data/mycoplasma/clusters/multifasta/50S_ribosomal_protein_L6.fasta
+aminoacyl-tRNA hydrolase	277	2	84	/home/dzilov/data_zilov/data/mycoplasma/clusters/multifasta/aminoacyl-tRNA_hydrolase.fasta
+nucleotide exchange factor GrpE	277	3	102	/home/dzilov/data_zilov/data/mycoplasma/clusters/multifasta/nucleotide_exchange_factor_GrpE.fasta
+uracil phosphoribosyltransferase	277	3	88	/home/dzilov/data_zilov/data/mycoplasma/clusters/multifasta/uracil_phosphoribosyltransferase.fasta
+translation initiation factor IF-1	277	1	66	/home/dzilov/data_zilov/data/mycoplasma/clusters/multifasta/translation_initiation_factor_IF-1.fasta
+30S ribosome-binding factor RbfA	277	26	73	/home/dzilov/data_zilov/data/mycoplasma/clusters/multifasta/30S_ribosome-binding_factor_RbfA.fasta
+preprotein translocase subunit SecG	277	6	74	/home/dzilov/data_zilov/data/mycoplasma/clusters/multifasta/preprotein_translocase_subunit_SecG.fasta
+amidotransferase subunit GatB	277	15	103	/home/dzilov/data_zilov/data/mycoplasma/clusters/multifasta/amidotransferase_subunit_GatB.fasta
+cell wall cluster transcriptional repressor MraZ	277	19	69	/home/dzilov/data_zilov/data/mycoplasma/clusters/multifasta/cell_wall_cluster_transcriptional_repressor_MraZ.fasta
+deoxyribose-phosphate aldolase	277	14	88	/home/dzilov/data_zilov/data/mycoplasma/clusters/multifasta/deoxyribose-phosphate_aldolase.fasta
+methyltransferase RsmH	277	4	107	/home/dzilov/data_zilov/data/mycoplasma/clusters/multifasta/methyltransferase_RsmH.fasta
+50S ribosomal protein L32	277	4	70	/home/dzilov/data_zilov/data/mycoplasma/clusters/multifasta/50S_ribosomal_protein_L32.fasta
